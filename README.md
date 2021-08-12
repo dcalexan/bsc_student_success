@@ -6,12 +6,12 @@ Pete VanZandt, CeCe Lacey, Dorothy Alexander
 ---
 
 ## Overview
-This project focused on creating a model that could determine how much a student's freshman year at Birmingham-Southern College (BSC) affects their probabilty of finishing and graduating also at BSC. The project used data provided by the school from year 2014 to current, which we honed in on 2014-2018 to look at the freshmen and 2014 and follow them to graduation in 2018. This model could be useful for Birmingham-Southern College to increase the number of student's staying and graduating at the institution.
+This project focused on creating a model that could determine how much a student's freshman year at Birmingham-Southern College (BSC) affects their probabilty of finishing and graduating also at BSC. The project used data provided by the school from year 2014 to current, which we focused on 2014-2018 to look at the freshmen. We picked 2014 so we could track the students to their expected graduation date in 2018. This model could be useful for Birmingham-Southern College to increase the number of students staying and graduating at the institution.
 
 ---
 
 ## Business Problem
-We want to be able to give BSC insight on their student’s success rate on campus. Success rate is measured by if the student essentially graduates from Birmingham-Southern College. This project used Neural Networks and Random Forest Classifier to look at if the student actually did graduate what grades did they get during their freshmen year and how accurate is the system in determining the likelyhood the student will stay all four years and will also end up graduating. 
+We want to be able to give BSC insight on their student’s success rate on campus. Success rate is measured by if the student essentially graduates from Birmingham-Southern College. This project used Neural Networks and Random Forest Classifier to look at if the student actually did graduate, what grades did they get during their freshmen year and how accurate is the system in determining the likelyhood the student will stay all four years and will also end up graduating. Ultimately the goal of the model is to serve as an early indicator for 1st year students to give them guidance on how much their 1st semester's performance impacts their likelihood of completing a degree at Birmingham-Southern College.
 
 ---
 
